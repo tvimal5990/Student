@@ -3,8 +3,8 @@
 This is a web project which stores the details of students using Spring Rest.
 
 ## Features Included
-•	A student has 3 attributes id, name and city.
-•	User can add student’s details, fetch, remove and update.
+•	A student has 3 attributes id, name and city.  
+•	User can add student’s details, fetch, remove and update.  
 •	Use this URL to fetch the details of all students - http://localhost:8080/students. Details will come in JSON format.
 https://user-images.githubusercontent.com/74603090/100546045-2d7ae500-3285-11eb-95f1-5f1832fae3f1.png
 •	Use this URL to fetch the record for a particular student - http://localhost:8080/student/{studentID}
