@@ -14,10 +14,11 @@ https://user-images.githubusercontent.com/74603090/100546096-716dea00-3285-11eb-
 •	Use this URL to Update the record of an existing student - http://localhost:8080/student. This is a PUT call and input will be in JSON
  https://user-images.githubusercontent.com/74603090/100546122-92363f80-3285-11eb-90b6-5f0864a0637b.png
 •	Use this URL to delete the record of an existing student - http://localhost:8080/student/{studentID}. This is a DELETE call.
- 
+ https://user-images.githubusercontent.com/74603090/100546147-b09c3b00-3285-11eb-80b7-924a730502bf.png
 
 Tech/Frameworks Used
 Core Java, Spring boot, Spring data JPA, MySQL
+
 Running the Project
 •	Clone the Git repository
 •	Install MySQL in your local system.
