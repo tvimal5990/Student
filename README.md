@@ -6,7 +6,6 @@ Features Included
 •	A student has 3 attributes id, name and city.
 •	User can add student’s details, fetch, remove and update.
 •	Use this URL to fetch the details of all students - http://localhost:8080/students. Details will come in JSON format.
-image.png
 •	Use this URL to fetch the record for a particular student - http://localhost:8080/student/{studentID}
 
 •	Use this URL to add a new student - http://localhost:8080/student. This is a post call. Input format will be in JSON
