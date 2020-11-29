@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/74603090/100546045-2d7ae500-3285-11eb-
 •	Use this URL to fetch the record for a particular student - http://localhost:8080/student/{studentID}
 https://user-images.githubusercontent.com/74603090/100546074-5307ee80-3285-11eb-8187-9b820c137fa5.png
 •	Use this URL to add a new student - http://localhost:8080/student. This is a post call. Input format will be in JSON
+https://user-images.githubusercontent.com/74603090/100546096-716dea00-3285-11eb-8364-76a9ab22822c.png
 •	Use this URL to Update the record of an existing student - http://localhost:8080/student. This is a PUT call and input will be in JSON
  
-
 •	Use this URL to delete the record of an existing student - http://localhost:8080/student/{studentID}. This is a DELETE call.
  
 
