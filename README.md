@@ -20,11 +20,11 @@ This is a web project which stores the details of students using Spring Rest.
 Core Java, Spring boot, Spring data JPA, MySQL
 
 ## Running the Project
-•	Clone the Git repository
-•	Install MySQL in your local system.
-•	Change the Database name and port accordingly in application.properties
-•	Run main method inside StudentApplicationTests.java class
-•	Then use any client (eg Postman) for making API calls
+•	Clone the Git repository  
+•	Install MySQL in your local system  
+•	Change the Database name and port accordingly in application.properties  
+•	Run main method inside StudentApplicationTests.java class  
+•	Then use any client (eg Postman) for making API calls  
 
  
 
